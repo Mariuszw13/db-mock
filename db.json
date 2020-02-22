@@ -1,0 +1,12 @@
+{
+  "items": [
+    { "type": "food", "name": "Garlic bread", "description": "Sliced bread with garlic", "weight": 0.1, "price": 2, "quantity": 4 },
+    { "type": "drink", "name": "Alto wine", "volume": 0.5, "price": 12, "quantity": 1 },
+    { "type": "drink", "name": "Orange juice", "volume": 0.3, "price": 3, "quantity": 15 },
+    { "type": "food", "name": "Salmon steak", "description": "Nicely cooked salmon", "weight": 0.15, "price": 9, "quantity": 3 },
+    { "type": "food", "name": "Vegetable soup", "description": "Soup made out of cabbage, potatoes, leek and tomatoes", "weight": 0.5, "price": 7, "quantity": 3 }
+  ],
+  "auth": {
+    "token": "4fd0f02cc6020dddef6dd28ef463fa36"
+  }
+}
